@@ -1,3 +1,5 @@
+This example try to give a full answer to https://github.com/pyinstaller/pyinstaller/issues/5016
+
 Tested on Mac
 # Setup dev env
 ```
