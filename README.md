@@ -8,6 +8,8 @@ pip install -r requirements.txt
 
 # Kick pyinstallar
 ```
+pip install pyinstaller
+
 pyinstaller --onefile --noconfirm --nowindow --exclude-module PyQt5 \
     --add-data "3rdparty/pytest_html:./pytest_html" \
     --add-data  "tests:tests" \
